@@ -13,6 +13,9 @@
     "production": {
       "android": {
         "buildType": "app-bundle"
+      },
+      "yarn": {
+        "frozenLockfile": false
       }
     }
   },
